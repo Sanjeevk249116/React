@@ -1,0 +1,14 @@
+.center{
+    color:red;
+    width:60%;
+    height: 400px;
+    margin: auto;
+    background-color: rgb(91, 91, 208);
+}
+.center h1{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    /* padding-top: 120px; */
+    padding: 100px;
+}
